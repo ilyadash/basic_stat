@@ -3,6 +3,8 @@ Uniform Distribution.ipynb
 
 основы статистики.ipynb
 
-.ipynb_checkpoints/конспект-checkpoint.ipynb
-
 .ipynb_checkpoints/
+*.ipynb_checkpoints/
+.ipynb_checkpoints/**
+
+.venv
